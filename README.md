@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Leonardo Borges Alves
 
-<!--
-**Leonarddo-alves/Leonarddo-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou iniciando minha jornada em Ciência de Dados, com foco em Python, SQL, análise de dados e visualização de informações.
 
-Here are some ideas to get you started:
+Atualmente estou estudando fundamentos de programação, estatística básica e ferramentas para transformar dados em insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estudando atualmente
+
+- Python
+- SQL
+- Pandas
+- Estatística básica
+- Visualização de dados
+- Git e GitHub
+
+## Objetivo
+
+Construir projetos práticos de análise de dados para desenvolver meu portfólio e evoluir na área de Ciência de Dados.
+
+## Projetos
+
+Em breve vou adicionar meus primeiros projetos de análise de dados.
+
+## Contato
+
+- LinkedIn: coloque seu link aqui
+- E-mail: coloque seu e-mail aqui
