@@ -23,5 +23,5 @@ Em breve vou adicionar meus primeiros projetos de análise de dados.
 
 ## Contato
 
-- LinkedIn: coloque seu link aqui
-- E-mail: coloque seu e-mail aqui
+- LinkedIn: https://www.linkedin.com/in/leonardo-borges-067200187
+- E-mail: leleoalves813@gmail.com
