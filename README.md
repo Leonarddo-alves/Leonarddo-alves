@@ -19,9 +19,9 @@ Construir projetos práticos de análise de dados para desenvolver meu portfóli
 
 ## Projetos
 
-## Projetos
+- [Análise de Vendas E-commerce](https://github.com/Leonarddo-alves/analise-vendas-ecommerce): análise exploratória de dados de vendas usando Python, Pandas e visualização de dados.
 
-- [Análise de Vendas E-commerce][(https://github.com/Leonarddo-alves/analise-vendas-ecommerce)]: análise exploratória de dados de vendas usando Python, Pandas e visualização de dados.
+- [SQL Sales Analysis](https://github.com/Leonarddo-alves/sql-sales-analysis): consultas SQL para responder perguntas de negócio sobre faturamento, categorias, regiões, produtos e segmentos de clientes.
 
 ## Contato
 
