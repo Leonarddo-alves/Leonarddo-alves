@@ -23,6 +23,9 @@ Construir projetos práticos de análise de dados para desenvolver meu portfóli
 
 - [SQL Sales Analysis](https://github.com/Leonarddo-alves/sql-sales-analysis): consultas SQL para responder perguntas de negócio sobre faturamento, categorias, regiões, produtos e segmentos de clientes.
 
+- [Desafio Técnico SCTech](https://github.com/Leonarddo-alves/SStech_Desafio): projeto desenvolvido como desafio técnico, com foco em solução funcional, organização do código e boas práticas de desenvolvimento.
+
+
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/leonardo-borges-067200187
